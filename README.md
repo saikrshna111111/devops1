@@ -1,2 +1,0 @@
-# devops1
-devopsdayone
